@@ -10,10 +10,10 @@ mv chwk /usr/local/bin/
 
 ## Usage
 ```
-chkw -t [Chatwork API token] -r [Chatwork room id] -m [Sending message]
+chwk -t [Chatwork API token] -r [Chatwork room id] -m [Sending message]
 ```
 
 ## DEMO
 ```
-chkw -t *************** -r ******* -m "This is first message!!"
+chwk -t *************** -r ******* -m "This is first message!!"
 ```
